@@ -1,1 +1,1 @@
-Simulation of the Ising model using Glauber dinamics. Done in python.
+Simulacion del Modelo de Ising utilizando la dinamica Glauber. Se aplica el metodo de aceptacion rechazo.
