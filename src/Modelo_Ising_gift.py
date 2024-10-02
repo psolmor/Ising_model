@@ -56,6 +56,7 @@ def update(frame):
     
     return [im]
 
+
 ani = animation.FuncAnimation(fig, update, frames=100, interval=50, blit=True)
 
 # Guardar la animación como un archivo GIF
